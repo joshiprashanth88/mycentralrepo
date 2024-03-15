@@ -6,7 +6,9 @@
 <p>My first paragraph.</p>
 
 </body>
-</html>[200~<table>
+</html
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>>[200~<table>
   <tr>
     <th>Company</th>
     <th>Contact</th>
