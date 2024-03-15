@@ -1,4 +1,12 @@
-[200~<table>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>[200~<table>
   <tr>
     <th>Company</th>
     <th>Contact</th>
